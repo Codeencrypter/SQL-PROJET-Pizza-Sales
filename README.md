@@ -13,6 +13,19 @@ The dataset contains details about:
 - Pizzas and categories
 - Pizza sizes and prices
 
+  ## 🗄️ SQL Database File
+
+You can recreate the database using this SQL file:
+
+📥 [`Pizza Sales.sql`](https://github.com/Codeencrypter/SQL-PROJET-Pizza-Sales/blob/main/Pizza%20Sales.sql)
+
+### How to Use:
+1. Open MySQL Workbench
+2. Go to File > Open SQL Script
+3. Select `Pizza Sales.sql`
+4. Create a new schema (database) and run the script to load the tables and data
+
+
 ---
 
 📊 **What I did**:
@@ -21,11 +34,15 @@ The dataset contains details about:
 -  Explored order patterns by time and pizza size  
 -  Wrote advanced queries using JOINs, CTEs, Subqueries & Window Functions
 
+---
+
 🧠 **Skill Highlights**:
 - ✅ JOINs, GROUP BY, Aggregations  
 - ✅ Date & Time functions  
 - ✅ Cumulative revenue analysis using `WINDOW` functions  
 - ✅ Business insight extraction using SQL
+
+  ---
   
 
 ## 📊 SQL Questions & Use Cases
@@ -62,6 +79,8 @@ FROM
 
   
 <img width="921" height="413" alt="Basic" src="https://github.com/user-attachments/assets/c41a3282-7a6a-42df-bab2-6f4c27cd9628" />
+
+---
 
 
 
@@ -100,6 +119,8 @@ GROUP BY HOUR(order_time);
    ## 📸 Output Screenshots 
 
 <img width="918" height="477" alt="Intermediate" src="https://github.com/user-attachments/assets/0691c15a-ac8b-4b01-8f3f-0ab6b2fdeeb6" />
+
+---
 
 
 
