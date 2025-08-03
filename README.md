@@ -15,6 +15,19 @@ The dataset contains details about:
 
 ---
 
+📊 **What I did**:
+-  Analyzed total sales, top products, and ordering trends  
+-  Identified the most profitable pizzas and categories  
+-  Explored order patterns by time and pizza size  
+-  Wrote advanced queries using JOINs, CTEs, Subqueries & Window Functions
+
+🧠 **Skill Highlights**:
+- ✅ JOINs, GROUP BY, Aggregations  
+- ✅ Date & Time functions  
+- ✅ Cumulative revenue analysis using `WINDOW` functions  
+- ✅ Business insight extraction using SQL
+  
+
 ## 📊 SQL Questions & Use Cases
 
 ### 🟢 Basic
@@ -132,11 +145,5 @@ LIMIT 3;
 
  <img width="915" height="513" alt="Advanced" src="https://github.com/user-attachments/assets/cec09046-239f-4b6b-b7a6-e2774759147b" />
 
----
 
-## 🧠 Skills Used
-- JOINs, GROUP BY, CTEs, Subqueries
-- Date/time functions
-- Window functions
-- Aggregations and formatting
 
